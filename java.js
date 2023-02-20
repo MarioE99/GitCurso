@@ -1,0 +1,6 @@
+function hola(){
+
+var hola;
+
+
+}
